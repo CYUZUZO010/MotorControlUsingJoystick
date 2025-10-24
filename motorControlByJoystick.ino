@@ -22,7 +22,7 @@ void loop() {
   myServo.write(angle);
   delay(15);
   Serial.print("X= ");
-  Serial.print(x_val);
+  Serial.print(x_val);//x value
   Serial.print(", Y= ");
-  Serial.print(y_val);
+  Serial.print(y_val);//x value
 }
