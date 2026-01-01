@@ -3,7 +3,7 @@
 #define y_pin A1
 #define hardcoded_vcc1 A2
 #define hardcoded_gnd1 A3
-//controlling the motor using the joystick and the c++;
+
 Servo myServo;
 
 void setup() {
